@@ -1,3 +1,2 @@
 # Fpm Python
-Fake Page Maker V1
-This script need python 2
+Fake Page Maker V1 By ArashHC
